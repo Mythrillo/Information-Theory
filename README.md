@@ -6,6 +6,6 @@ There are three projects in this repository:
 * Implementation of affine cipher with frequency analysis attack: Affine cipher.py
 
 TODO:
-- [] add sources
-- [] add more detailed explanation of each project
+- [ ] add sources
+- [ ] add more detailed explanation of each project
 
